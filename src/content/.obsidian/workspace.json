@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "3a08079de3ddb024",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1357d7aaf278a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c51c6db8a4f094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/盘点2024ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "盘点2024ai"
+            }
+          },
+          {
+            "id": "af39e283607ebbcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e9601172f3b47bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "30beccae71bc8298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ec640a8fc25f36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a40fbc820439492c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bef8ec33e2c15c7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72db6b5b65690797",
+    "type": "split",
+    "children": [
+      {
+        "id": "93d2b4dccab700dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e44557dc8e3dfd36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/模板/默认.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "默认 的反向链接列表"
+            }
+          },
+          {
+            "id": "7bd8faaa218a9c40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/模板/默认.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "默认 的出链列表"
+            }
+          },
+          {
+            "id": "553fb376fe022004",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f96324c8702d2dd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/模板/默认.md"
+              },
+              "icon": "lucide-list",
+              "title": "默认 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "af39e283607ebbcc",
+  "lastOpenFiles": [
+    "spec/about.md",
+    "posts/ai视频高难度测试集.md",
+    "posts/一口吃成胖子：ai编程记.md",
+    "posts/盘点2024ai.md",
+    "未命名.md",
+    "posts/markdown-extended.md",
+    "posts/video.md",
+    "posts/draft.md",
+    "posts/test/markdown-test.md",
+    "posts/模板/默认.md",
+    "posts/guide/index.md",
+    "posts/guide/cover.jpeg",
+    "posts/markdown.md",
+    "posts/从0到1，用windsurf写出一个ai导航liteai.top.md",
+    "从0到1，用windsurf写出一个ai导航liteai.top.md",
+    "Pasted image 20250118113544.png",
+    "Pasted image 20250118113533.png",
+    "posts/test",
+    "2025-01-18.md",
+    "2024-04-01.md",
+    "posts/未命名.md",
+    "posts/project/未命名 1.md",
+    "posts/project/未命名.md",
+    "posts/project/what.md",
+    "posts/模板",
+    "未命名",
+    "未命名.canvas"
+  ]
+}
