@@ -1,0 +1,137 @@
+2025-01-18T08:48:53.058137Z	Cloning repository...
+2025-01-18T08:48:53.721453Z	From https://github.com/daoforhere/blog
+2025-01-18T08:48:53.721889Z	 * branch            13b204e5a5b8ff4d8735f75408f7334e745b3f0c -> FETCH_HEAD
+2025-01-18T08:48:53.72203Z	
+2025-01-18T08:48:53.75792Z	HEAD is now at 13b204e Initial commit: Setup blog with Fuwari theme
+2025-01-18T08:48:53.758515Z	
+2025-01-18T08:48:53.834306Z	
+2025-01-18T08:48:53.834744Z	Using v2 root directory strategy
+2025-01-18T08:48:53.855732Z	Success: Finished cloning repository files
+2025-01-18T08:48:55.332026Z	Checking for configuration in a Wrangler configuration file (BETA)
+2025-01-18T08:48:55.332697Z	
+2025-01-18T08:48:55.467544Z	No wrangler.toml file found. Continuing.
+2025-01-18T08:48:55.619206Z	Detected the following tools from environment: nodejs@18.20.4, pnpm@9.14.4
+2025-01-18T08:48:55.61975Z	Installing nodejs 18.20.4
+2025-01-18T08:48:56.512666Z	Trying to update node-build... ok
+2025-01-18T08:48:56.608187Z	To follow progress, use 'tail -f /tmp/node-build.20250118084856.490.log' or pass --verbose
+2025-01-18T08:48:56.706741Z	Downloading node-v18.20.4-linux-x64.tar.gz...
+2025-01-18T08:48:56.924831Z	-> https://nodejs.org/dist/v18.20.4/node-v18.20.4-linux-x64.tar.gz
+2025-01-18T08:48:58.515217Z	
+2025-01-18T08:48:58.515504Z	WARNING: node-v18.20.4-linux-x64 is in LTS Maintenance mode and nearing its end of life.
+2025-01-18T08:48:58.515596Z	It only receives *critical* security updates, *critical* bug fixes and documentation updates.
+2025-01-18T08:48:58.515687Z	
+2025-01-18T08:48:58.515799Z	Installing node-v18.20.4-linux-x64...
+2025-01-18T08:48:58.893238Z	Installed node-v18.20.4-linux-x64 to /opt/buildhome/.asdf/installs/nodejs/18.20.4
+2025-01-18T08:48:58.893496Z	
+2025-01-18T08:49:00.191481Z	Preparing pnpm@9.14.4 for immediate activation...
+2025-01-18T08:49:02.06402Z	Installing project dependencies: pnpm install
+2025-01-18T08:49:02.74791Z	Lockfile is up to date, resolution step is skipped
+2025-01-18T08:49:02.861337Z	Progress: resolved 1, reused 0, downloaded 0, added 0
+2025-01-18T08:49:03.146817Z	Packages: +1049
+2025-01-18T08:49:03.147093Z	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2025-01-18T08:49:03.862552Z	Progress: resolved 1049, reused 0, downloaded 60, added 51
+2025-01-18T08:49:04.86251Z	Progress: resolved 1049, reused 0, downloaded 215, added 211
+2025-01-18T08:49:05.862898Z	Progress: resolved 1049, reused 0, downloaded 469, added 469
+2025-01-18T08:49:06.862596Z	Progress: resolved 1049, reused 0, downloaded 821, added 820
+2025-01-18T08:49:07.862391Z	Progress: resolved 1049, reused 0, downloaded 1004, added 998
+2025-01-18T08:49:08.796735Z	Progress: resolved 1049, reused 0, downloaded 1049, added 1049, done
+2025-01-18T08:49:09.164125Z	.../sharp@0.33.5/node_modules/sharp install$ node install/check
+2025-01-18T08:49:09.164934Z	.../node_modules/@parcel/watcher install$ node scripts/build-from-source.js
+2025-01-18T08:49:09.165661Z	.../node_modules/@biomejs/biome postinstall$ node scripts/postinstall.js
+2025-01-18T08:49:09.202162Z	.../esbuild@0.24.2/node_modules/esbuild postinstall$ node install.js
+2025-01-18T08:49:09.223341Z	.../esbuild@0.21.5/node_modules/esbuild postinstall$ node install.js
+2025-01-18T08:49:09.26954Z	.../node_modules/@parcel/watcher install: Done
+2025-01-18T08:49:09.296953Z	.../node_modules/@biomejs/biome postinstall: Done
+2025-01-18T08:49:09.309156Z	.../.pnpm/swup@4.8.1/node_modules/swup postinstall$ opencollective-postinstall || true
+2025-01-18T08:49:09.363791Z	.../esbuild@0.21.5/node_modules/esbuild postinstall: Done
+2025-01-18T08:49:09.364865Z	.../sharp@0.33.5/node_modules/sharp install: Done
+2025-01-18T08:49:09.365497Z	.../esbuild@0.24.2/node_modules/esbuild postinstall: Done
+2025-01-18T08:49:09.398336Z	.../.pnpm/swup@4.8.1/node_modules/swup postinstall: Done
+2025-01-18T08:49:09.585171Z	
+2025-01-18T08:49:09.585381Z	dependencies:
+2025-01-18T08:49:09.585653Z	+ @astrojs/check 0.9.4
+2025-01-18T08:49:09.585736Z	+ @astrojs/rss 4.0.11
+2025-01-18T08:49:09.585798Z	+ @astrojs/sitemap 3.2.1
+2025-01-18T08:49:09.585857Z	+ @astrojs/svelte 7.0.3
+2025-01-18T08:49:09.585934Z	+ @astrojs/tailwind 5.1.4
+2025-01-18T08:49:09.586014Z	+ @fontsource-variable/jetbrains-mono 5.1.1
+2025-01-18T08:49:09.586204Z	+ @fontsource/roboto 5.1.0
+2025-01-18T08:49:09.586377Z	+ @iconify-json/fa6-brands 1.2.3
+2025-01-18T08:49:09.586695Z	+ @iconify-json/fa6-regular 1.2.2
+2025-01-18T08:49:09.587025Z	+ @iconify-json/fa6-solid 1.2.2
+2025-01-18T08:49:09.58718Z	+ @iconify-json/material-symbols 1.2.8
+2025-01-18T08:49:09.587295Z	+ @iconify/svelte 4.0.2
+2025-01-18T08:49:09.587404Z	+ @swup/astro 1.5.0
+2025-01-18T08:49:09.587507Z	+ @tailwindcss/typography 0.5.15
+2025-01-18T08:49:09.587625Z	+ astro 5.1.6
+2025-01-18T08:49:09.587688Z	+ astro-compress 2.3.5
+2025-01-18T08:49:09.588038Z	+ astro-icon 1.1.4
+2025-01-18T08:49:09.588268Z	+ hastscript 9.0.0
+2025-01-18T08:49:09.588596Z	+ katex 0.16.19
+2025-01-18T08:49:09.588909Z	+ markdown-it 14.1.0
+2025-01-18T08:49:09.58908Z	+ mdast-util-to-string 4.0.0
+2025-01-18T08:49:09.589304Z	+ overlayscrollbars 2.10.1
+2025-01-18T08:49:09.589459Z	+ pagefind 1.2.0
+2025-01-18T08:49:09.589556Z	+ photoswipe 5.4.4
+2025-01-18T08:49:09.589833Z	+ reading-time 1.5.0
+2025-01-18T08:49:09.589934Z	+ rehype-autolink-headings 7.1.0
+2025-01-18T08:49:09.590267Z	+ rehype-components 0.3.0
+2025-01-18T08:49:09.590664Z	+ rehype-katex 7.0.1
+2025-01-18T08:49:09.590805Z	+ rehype-slug 6.0.0
+2025-01-18T08:49:09.590898Z	+ remark-directive 3.0.0
+2025-01-18T08:49:09.590959Z	+ remark-directive-rehype 0.4.2
+2025-01-18T08:49:09.591085Z	+ remark-github-admonitions-to-directives 1.0.5
+2025-01-18T08:49:09.591173Z	+ remark-math 6.0.0
+2025-01-18T08:49:09.59132Z	+ remark-sectionize 2.0.0
+2025-01-18T08:49:09.591445Z	+ sanitize-html 2.13.1
+2025-01-18T08:49:09.59156Z	+ sharp 0.33.5
+2025-01-18T08:49:09.591628Z	+ stylus 0.63.0
+2025-01-18T08:49:09.591683Z	+ svelte 5.5.3
+2025-01-18T08:49:09.591782Z	+ tailwindcss 3.4.16
+2025-01-18T08:49:09.591917Z	+ typescript 5.7.2
+2025-01-18T08:49:09.5921Z	+ unist-util-visit 5.0.0
+2025-01-18T08:49:09.592232Z	
+2025-01-18T08:49:09.592333Z	devDependencies:
+2025-01-18T08:49:09.59243Z	+ @astrojs/ts-plugin 1.10.4
+2025-01-18T08:49:09.592547Z	+ @biomejs/biome 1.8.3
+2025-01-18T08:49:09.592646Z	+ @rollup/plugin-yaml 4.1.2
+2025-01-18T08:49:09.592748Z	+ @types/markdown-it 14.1.2
+2025-01-18T08:49:09.592848Z	+ @types/mdast 4.0.4
+2025-01-18T08:49:09.592936Z	+ @types/sanitize-html 2.13.0
+2025-01-18T08:49:09.593166Z	+ postcss-import 16.1.0
+2025-01-18T08:49:09.593262Z	+ postcss-nesting 13.0.1
+2025-01-18T08:49:09.593359Z	
+2025-01-18T08:49:09.61106Z	Done in 7.2s
+2025-01-18T08:49:09.690169Z	Executing user command: pnpm build
+2025-01-18T08:49:10.322215Z	
+2025-01-18T08:49:10.322509Z	> fuwari@0.0.1 build /opt/buildhome/repo
+2025-01-18T08:49:10.322738Z	> astro build && pagefind --site dist
+2025-01-18T08:49:10.32281Z	
+2025-01-18T08:49:12.437954Z	08:49:12 [vite] Forced re-optimization of dependencies
+2025-01-18T08:49:13.020184Z	
+2025-01-18T08:49:13.020496Z	Auto-generating collections for folders in "src/content/" that are not defined as collections.
+2025-01-18T08:49:13.020669Z	This is deprecated, so you should define these collections yourself in "src/content.config.ts".
+2025-01-18T08:49:13.020785Z	The following collections have been auto-generated: spec
+2025-01-18T08:49:13.020897Z	
+2025-01-18T08:49:13.024612Z	08:49:13 [content] Syncing content
+2025-01-18T08:49:13.628937Z	08:49:13 [content] Synced content
+2025-01-18T08:49:13.629613Z	08:49:13 [types] Generated 1.26s
+2025-01-18T08:49:13.630049Z	08:49:13 [build] output: "static"
+2025-01-18T08:49:13.630192Z	08:49:13 [build] directory: /opt/buildhome/repo/dist/
+2025-01-18T08:49:13.630299Z	08:49:13 [build] Collecting build info...
+2025-01-18T08:49:13.630831Z	08:49:13 [build] ✓ Completed in 1.36s.
+2025-01-18T08:49:13.634057Z	08:49:13 [build] Building static entrypoints...
+2025-01-18T08:49:17.452094Z	08:49:17 [ERROR] [vite] [31mx[39m Build failed in 3.77s
+2025-01-18T08:49:17.910081Z	[vite]: Rollup failed to resolve import "" from "/opt/buildhome/repo/src/content/posts/test/markdown-test.md".
+2025-01-18T08:49:17.910402Z	This is most likely unintended because it can break your application at runtime.
+2025-01-18T08:49:17.910559Z	If you do want to externalize this module explicitly add it to
+2025-01-18T08:49:17.910774Z	`build.rollupOptions.external`
+2025-01-18T08:49:17.910898Z	  Stack trace:
+2025-01-18T08:49:17.911032Z	    at viteWarn (file:///opt/buildhome/repo/node_modules/.pnpm/vite@6.0.7_@types+node@22.10.1_jiti@1.21.6_lightningcss@1.27.0_sass@1.80.4_stylus@0.63.0_terser@5.36.0_yaml@2.6.1/node_modules/vite/dist/node/chunks/dep-BJP6rrE_.js:51043:17)
+2025-01-18T08:49:17.911141Z	    at onRollupWarning (file:///opt/buildhome/repo/node_modules/.pnpm/vite@6.0.7_@types+node@22.10.1_jiti@1.21.6_lightningcss@1.27.0_sass@1.80.4_stylus@0.63.0_terser@5.36.0_yaml@2.6.1/node_modules/vite/dist/node/chunks/dep-BJP6rrE_.js:51073:5)
+2025-01-18T08:49:17.911391Z	    at file:///opt/buildhome/repo/node_modules/.pnpm/rollup@4.28.0/node_modules/rollup/dist/es/shared/node-entry.js:19475:13
+2025-01-18T08:49:17.911501Z	    at ModuleLoader.handleInvalidResolvedId (file:///opt/buildhome/repo/node_modules/.pnpm/rollup@4.28.0/node_modules/rollup/dist/es/shared/node-entry.js:20090:26)
+2025-01-18T08:49:17.93752Z	 ELIFECYCLE  Command failed with exit code 1.
+2025-01-18T08:49:17.964054Z	Failed: Error while executing user command. Exited with error code: 1
+2025-01-18T08:49:17.975334Z	Failed: build command exited with code: 1
+2025-01-18T08:49:18.778401Z	Failed: error occurred while running build command
