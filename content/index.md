@@ -1,8 +1,40 @@
 ---
-title: Welcome to Quartz
+title: 防不胜防，又是倒放
 ---
+ai爱好者，热衷于稀奇古怪。设计和开发，都经常玩。水平不高，欢迎一起无法无天😋🤣
+ai的世界里你会常见到我！但是我还是希望你少来看我，多关注你现实的生活。祝你幸福
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 我在做什么
 
-111
+|          |                                                   项目                                                    |                                             简介                                             |        类型         |                                  现状                                  | 商业价值                        | 卡点                     |
+| :------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------: | :------------------------------------------------------------------: | --------------------------- | ---------------------- |
+|    项目    |                           [taskflow](https://github.com/daoforhere/taskflow)                            | 指令流。类似md+yaml，用文本描述性语言写动作序列，可读性可写性都不错，也可以方便地嵌入llm的上下文。一套语言通用驱动agent＆robot，可视化的llm脑机接口的开源雏形 |        数据集        |                    -1，刚新建文件夹就得撤回了，有个影响力大得多的项目是同名的                    |                             |                        |
+|          |                                    [liteai.top](https://liteai.top)                                     |                                          极简ai工具导航                                          |        网页         |                 即将重构成推荐导航，但是还没学会写。<br>如果您会写推荐系统请教教我                  | 0                           | 代码优化太差                 |
+|          |                          [深圳活动精选](https://docs.qq.com/sheet/DWFl4TkliV3NyUWxO)                          |                                     帮创业者、投资人节省精力，高质量社交                                     |      共享腾讯文档       |          暂时停更，我需要寻找更自动化的方式。现在潜心自媒体参加活动不多，不过以后或许可以做成比赛类的活动集           |                             | 优质信源不足                 |
+|  小游戏系列   | 双结局拼图<br>[创意来源](https://www.bilibili.com/video/BV1Yy2QYoE92)<br>[更多示例](https://diffusionillusions.com/) |                                        单面但两种拼法的有趣拼图                                        |       小程序游戏       |                           分步生成的过程拆开混编，有点难做                           |                             | 没把colab程序跑在本地过         |
+|          |                             [死水码头](https://daoforhere.github.io/noxdocks/)                              |                                        面向儿童的创意交易黑市                                         | 网页，后续游戏场景/创意交易社区/ |                             已完成，还没加登录系统                              | 儿童编程教材<br>异世界冒险游戏<br>创意交易社区 | 可能不受家长市场欢迎             |
+|          |                                                  异世界理发                                                  |                         你是一位理发师，每天各种各样生物来理发，可能是骷髅，精灵，火人，兽人，冰人，美杜莎                          |       游戏场景        |                                新建文件夹                                 | 后续可能把我以上各种奇怪的想法整理进一个游戏里面    |                        |
+|   开发记录   |                                              一口吃成胖子：ai编程记                                               |                            从0到1记录我写网站的过程。设计，写程序，发布，买域名，visa信用卡                             |     公众号文章/视频      |        现在要重写了，我已经不再用windsurf，转claude code了，还是 写成短篇长期更吧，做成一个系列        | 500左右                       |                        |
+|          |                                                  电子坟墓                                                   |                                        记录那些不能被记录的故事                                        |        网页         |                                                                      | 负的                          |                        |
+| 整活，创意，发散 |                       [赛博抽纸](https://kzmfs3t8z0cyo00f5krc.lite.vusercontent.net/)                       |                                      当你无聊的时候可以来这里抽一张纸                                      |        网页         |                                 100%                                 | 难说                          |                        |
+|          |                                                  一脸成文                                                   |                       从照片/角色/剧照，ai来生成文章的故事线，预测这个人会身上发生的故事。但这个人不一定是主角                       |       agent       | 10%，coze没打通后续试试dify。<br>打算重启这条，flowith做了很有趣的产品flolife，从描述和一些基础属性生成人生 |                             | 希望做到jaaz那样的视觉画布的体验有点难哦 |
+|          |                                         [博客](https://daofor.me)                                         |                                           收录我的项目                                           |        网页         |                                                                      |                             |                        |
+|          |                                                   合体字                                                   |                                类似日进斗金黄金万两，用吹牛逼这样的字合成一个完整的字                                 |        网页         |                                  0                                   |                             | 需要ai来判断字的结构上下左右半包围全包围  |
+|          |                               [词穷](https://4a1negq4gmnb1mnz.vercel.app/)                                |                           ai分析 你看到的环境，你用语音与ai交流，让它告诉你此刻的情感该如何表达                            |   小程序，后续app/硬件    |                             在做，尝试不同工具实现                              | 文旅定制项目结算，一个5w左右             | 怎么接多模态大模型进系统，处理信息      |
+|          |                                                  货拉拉多大                                                  |                                  帮大学生可视化货拉拉车厢的大小，用人体大小对比                                   |      小程序/插件       |                                  0%                                  | 负的                          | 可能面临版权风险，会被货拉拉整        |
+|          |                                                  批量横拼                                                   |                                  把两张图片成对拼起来对比，便于向观众展示测试用例                                  |     python脚本      |                                                                      |                             |                        |
+|          |                             [提示词劣化](https://g.co/gemini/share/45d00a9a57df)                             |                                      看我怎么把你的金盆子镶上屎边！                                       |                   |                                                                      |                             |                        |
+|          |                                [答案](https://aezyemi686cb.trickle.host/)                                 |                                      犹豫纯属浪费生命，我来告诉你答案                                      |                   |                                                                      |                             |                        |
+|          |                                                                                                         |                                                                                            |                   |                                                                      |                             |                        |
+
+大模型就像鼠符咒，在说话的东西本质上是会输出的数据。强度不由符咒决定，一如大模型的本质是由训练数据决定的。
+
+# 更多的我
+我的github [daoforhere](https://github.com/daoforhere/blog)，我的[博客](https://daofor.me)
+国内有[抖音](https://www.douyin.com/user/MS4wLjABAAAAeEjoiOAroFzs5YEu9qOa-Pjg7hq4UtDBmkYIsBUjzv0)、[bilibili](https://space.bilibili.com/221641502)、[小红书](https://www.xiaohongshu.com/user/profile/5d5fb16b00000000010028fe)、[即刻](https://okjk.co/ISYHTK)、[快手](https://www.kuaishou.com/profile/3x22vcchnhc7zqm)。
+
+微信号跟网站一样，daoforme。视频号 公众号如下![sph.png](https://blogimage.daofor.me/PicGo/sph.webp)
+
+海外有[x](https://x.com/daoforme) [youtube](https://www.youtube.com/@daofor/videos),reddit 和facebook实在没精力开了
+
+博客还很粗糙，我正在建设……

@@ -1,0 +1,24 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 依赖和构建产物
+node_modules/
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
+
+# Obsidian 配置
+content/.obsidian/
+
+# 私密内容
+content/私密/
+
+# Replit 配置
+.replit
+replit.nix
+
+# 日志和临时文件
+*.log
+*.swp
+*.tmp
